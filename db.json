@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "ashribad samal1",
+      "username": "ashribad",
+      "email": "ashribad.samal00@gmail.com",
+      "phone": "553456789",
+      "id": 14
+    },
+    {
+      "name": "asit123",
+      "username": "asitsss",
+      "email": "asit@gmail.com",
+      "phone": "886757465",
+      "id": 15
+    },
+    {
+      "name": "pinkusamal",
+      "username": "pinku",
+      "email": "pinku@gmail.com",
+      "phone": "676545",
+      "id": 18
+    },
+    {
+      "name": "antar",
+      "username": "antar p",
+      "email": "antar@gmail.com",
+      "phone": "8765645",
+      "id": 23
+    },
+    {
+      "name": "hello",
+      "username": "hii",
+      "email": "ashri@gmail.com",
+      "phone": "1234",
+      "id": 24
+    }
+  ]
+}
